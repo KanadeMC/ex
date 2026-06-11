@@ -1,0 +1,14 @@
+G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\Exam.GeneratedMSBuildEditorConfig.editorconfig
+G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\Exam.AssemblyInfoInputs.cache
+G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\Exam.AssemblyInfo.cs
+G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\Exam.csproj.CoreCompileInputs.cache
+G:\RiderProjects\Exam\Exam\bin\Debug\net10.0\Exam.exe
+G:\RiderProjects\Exam\Exam\bin\Debug\net10.0\Exam.deps.json
+G:\RiderProjects\Exam\Exam\bin\Debug\net10.0\Exam.runtimeconfig.json
+G:\RiderProjects\Exam\Exam\bin\Debug\net10.0\Exam.dll
+G:\RiderProjects\Exam\Exam\bin\Debug\net10.0\Exam.pdb
+G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\Exam.dll
+G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\refint\Exam.dll
+G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\Exam.pdb
+G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\Exam.genruntimeconfig.cache
+G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\ref\Exam.dll
