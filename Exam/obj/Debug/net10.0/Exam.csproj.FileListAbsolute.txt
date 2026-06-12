@@ -12,3 +12,4 @@ G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\refint\Exam.dll
 G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\Exam.pdb
 G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\Exam.genruntimeconfig.cache
 G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\ref\Exam.dll
+G:\RiderProjects\Exam\Exam\obj\Debug\net10.0\Exam.sourcelink.json
